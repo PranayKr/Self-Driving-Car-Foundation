@@ -1,0 +1,36 @@
+﻿  tests.cpp
+e:\project\project\helpers.cpp(42): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\helpers.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\helpers.cpp(52): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\helpers.cpp(56): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\helpers.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\project\project\helpers.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\project\project\helpers.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\project\project\helpers.cpp(279): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\helpers.cpp(280): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\helpers.cpp(337): warning C4101: 'color': unreferenced local variable
+e:\project\project\debugging_helpers.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\debugging_helpers.cpp(27): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\debugging_helpers.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\debugging_helpers.cpp(46): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\localizer.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\project\project\localizer.cpp(130): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\localizer.cpp(132): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\localizer.cpp(138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\project\project\localizer.cpp(142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\project\project\localizer.cpp(230): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+e:\project\project\localizer.cpp(232): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+e:\project\project\tests.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\project\project\tests.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\project\project\tests.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\project\project\tests.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\project\project\tests.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\project\project\tests.cpp(128): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\tests.cpp(130): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\tests.cpp(195): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\tests.cpp(197): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\tests.cpp(213): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\tests.cpp(215): warning C4018: '<': signed/unsigned mismatch
+e:\project\project\tests.cpp(236): warning C4305: '=': truncation from 'double' to 'float'
+e:\project\project\tests.cpp(237): warning C4305: '=': truncation from 'double' to 'float'
+  2DHistGramFilter.vcxproj -> E:\project\project\Debug\2DHistGramFilter.exe
