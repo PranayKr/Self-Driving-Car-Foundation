@@ -4,3 +4,7 @@ A Traffic Light Classifier model built by extraction of the feature Average Brig
 corresponding to the 3 colors 1)Red 2)Yellow 3)Green
 
 # Traffic Light Classification Results 
+
+![avg_brightness_red](https://user-images.githubusercontent.com/25223180/46545611-6822a600-c8e4-11e8-9420-9702e868bd4b.png)
+
+
