@@ -13,7 +13,7 @@ b) Yellow Light Classification
 
 ![avg_brightness_yellow](https://user-images.githubusercontent.com/25223180/46545806-fdbe3580-c8e4-11e8-98b6-bdc58727468f.png)
 
-c) Green Light Classification 
+c) Green Light Classification  
 
 
 
