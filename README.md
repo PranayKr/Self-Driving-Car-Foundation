@@ -3,6 +3,8 @@
 A Traffic Light Classifier model built by extraction of the feature Average Brightness for the 3 sub-sections of a traffic light image
 corresponding to the 3 colors 1)Red 2)Yellow 3)Green
 
+The feature Average Brightness is calculated by summing up the Value Parameter of image pixels(in 3 sub-sections) in HSV Color Space and then dividing the sum by the total area of the sub-sections of the image corresponding to the 3 colors respectively
+
 # Traffic Light Images Examples
 
 ![traffic lights 2](https://user-images.githubusercontent.com/25223180/46578853-13d30f80-ca25-11e8-8564-c74525dfd3e7.png)
