@@ -5,6 +5,10 @@ corresponding to the 3 colors 1)Red 2)Yellow 3)Green
 
 # Traffic Light Images Examples
 
+![traffic lights 2](https://user-images.githubusercontent.com/25223180/46578853-13d30f80-ca25-11e8-8564-c74525dfd3e7.png)
+
+
+
 # Traffic Light Classification Results 
 
 a) Red Light Classification
