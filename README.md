@@ -6,4 +6,4 @@ In this Project A-Star Search algorithm has been used to to implement a "Google-
 
 The map above shows a network of roads which spans 40 different intersections (labeled 0 through 39).
 
-# Result Showcase : In the Map below the starting city node is colored as Yellow and the destination city the vehicle needs to reach is displayed as Black colored Node . The Path / Route which got selected by the vehicle to reach the destination is highlighted by the red nodes i.e. the intermediate cities between the starting city to the target (destination) city the vehicle chose to pass through using the A Star Search Algorithm 
+# Result Showcase : In the Map below the starting city node is colored as Yellow and the destination city the vehicle needs to reach is displayed as Black Colored Node . The Path / Route which got selected by the vehicle to reach the destination is highlighted by the red nodes i.e. the intermediate cities between the starting city to the target (destination) city the vehicle chose to pass through using the A Star Search Algorithm 
