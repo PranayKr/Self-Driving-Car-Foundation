@@ -7,7 +7,7 @@ corresponding to the 3 colors 1)Red 2)Yellow 3)Green
 
 ![traffic lights 2](https://user-images.githubusercontent.com/25223180/46578853-13d30f80-ca25-11e8-8564-c74525dfd3e7.png)
 
-
+![traffic lights](https://user-images.githubusercontent.com/25223180/46578867-411fbd80-ca25-11e8-809c-bf2f700b134e.png)
 
 # Traffic Light Classification Results 
 
