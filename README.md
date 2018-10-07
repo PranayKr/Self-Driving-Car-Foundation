@@ -18,3 +18,7 @@ The chart contains ground turth, the lidar measurements, and the Kalman filter b
 
 The Kalman filter tends to smooth out the information obtained from the lidar measurement.
 
+Kalman filters can give insights into variables that cannot be directly measured. 
+
+Although lidar does not directly give velocity information, the Kalman filter can infer velocity from the lidar measurements.
+
