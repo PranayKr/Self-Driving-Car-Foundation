@@ -13,3 +13,9 @@ Given a set of raw sensor data collected by the readings of Odometer of a Vehicl
 # Raw Sensor Data Snapshot
 
 ![raw_sensor_data](https://user-images.githubusercontent.com/25223180/46579149-8b0aa280-ca29-11e8-808a-50228226a135.PNG)
+
+
+After processing of the above provided Sensor data of Vehicle's Motion exact trajectory of the vehicle is reconstructed by plotting a graph of vehicle's X and Y position 
+
+
+Result achieved : Display of Vehicle's Trajectory plotted on the basis of raw sensor data provided
