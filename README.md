@@ -23,3 +23,8 @@ Kalman filters can give insights into variables that cannot be directly measured
 Although lidar does not directly give velocity information, the Kalman filter can infer velocity from the lidar measurements.
 
 # Visualization Results of Kalman filter velocity estimation versus the Ground Truth
+
+![kalman_filter_velocity_estimation_graph](https://user-images.githubusercontent.com/25223180/46580511-98cd2180-ca43-11e8-949d-82406027687d.png)
+
+The motion model used in this Kalman filter assumes that velocity is constant and that acceleration a random noise.
+This motion model might be too simplistic because the Kalman filter has trouble predicting velocity as the object decelerates.
